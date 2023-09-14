@@ -1,8 +1,8 @@
 # Blog-API
 
-# This project is a simple Express.js API for managing blog posts. Users can perform basic CRUD operations (Create, Read, Update, Delete) on blog posts.
+This project is a simple Express.js API for managing blog posts. Users can perform basic CRUD operations (Create, Read, Update, Delete) on blog posts.
 
-Features:
+#Features:
 Retrieve all posts: List all available blog posts.
 Retrieve a specific post: Get details of a specific post using its ID.
 Create a new post: Add a new post to the collection.
